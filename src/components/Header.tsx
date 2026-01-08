@@ -31,7 +31,7 @@ export default function Header() {
                             </svg>
                         </div>
                         <span className="text-xl font-bold text-secondary hidden md:block">
-                            Indian Export Import Services
+                            Services
                         </span>
                         <span className="text-xl font-bold text-secondary md:hidden">
                             IEIS
